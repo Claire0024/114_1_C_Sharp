@@ -1,0 +1,5 @@
+C:\Users\m303\Desktop\114_1_C_Sharp\114_09_24\114_1_C_Sharp_Tutorial-main\114_09_17\Tutorial_2_3\Tutorial_2_3\obj\Debug\Tutorial_2_3.csproj.AssemblyReference.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114_09_24\114_1_C_Sharp_Tutorial-main\114_09_17\Tutorial_2_3\Tutorial_2_3\obj\Debug\Tutorial_2_3.Form1.resources
+C:\Users\m303\Desktop\114_1_C_Sharp\114_09_24\114_1_C_Sharp_Tutorial-main\114_09_17\Tutorial_2_3\Tutorial_2_3\obj\Debug\Tutorial_2_3.Properties.Resources.resources
+C:\Users\m303\Desktop\114_1_C_Sharp\114_09_24\114_1_C_Sharp_Tutorial-main\114_09_17\Tutorial_2_3\Tutorial_2_3\obj\Debug\Tutorial_2_3.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114_09_24\114_1_C_Sharp_Tutorial-main\114_09_17\Tutorial_2_3\Tutorial_2_3\obj\Debug\Tutorial_2_3.csproj.CoreCompileInputs.cache
